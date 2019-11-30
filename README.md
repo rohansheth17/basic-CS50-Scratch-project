@@ -8,3 +8,5 @@ Once the cat has disappeared, you will see the witch flying mischievously while 
 Then you can again press the 'a' key so that the conjured magic energy ball by the witch is controlled by the mouse pointer. Your mission is to try and touch the magic ball to the largest bat you can find(which is, unknown to the witch, a vampire). 
 
 This will cause the great revelation and the lives and fates of the bats and the witch will forever be changed. Enjoy the story. Hope you like the cat humor. I hope I will try to improve it in the future. Only one howling sound is used in this project. Please like and share. :)
+
+Oh and I got some of the pictures for sprites and backdrops from Google and the rest are provided by Scratch itself.
